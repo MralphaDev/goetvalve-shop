@@ -54,7 +54,7 @@ function page() {
               className="absolute inset-0 bg-cover bg-center"
               style={{
                 backgroundImage:
-                  "url(https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671)",
+                  "url(https://goetvalves.eu/image/premium-news-background-blue-checked.svg)",
                 WebkitMaskImage:
                   "linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,0.6) 40%, rgba(0,0,0,1) 100%)",
                 maskImage:
