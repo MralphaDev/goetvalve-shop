@@ -41,7 +41,7 @@ const generalInfo = () => {
       className="min-h-screen flex flex-col items-center justify-center p-8"
       style={{
         backgroundImage:
-          'url(https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671)',
+          'url(https://goetvalves.eu/image/premium-news-background-blue-checked.svg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
