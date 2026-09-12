@@ -171,7 +171,7 @@ function page() {
           <div>
             {/* 你的 Description div */}
             <div className="relative h-screen w-screen" style={{
-              backgroundImage: "url('https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671')",
+              backgroundImage: "url('https://goetvalves.eu/image/premium-news-background-blue-checked.svg')",
               opacity: 0.9,
             }}>
                 {/* Content Section */}       
