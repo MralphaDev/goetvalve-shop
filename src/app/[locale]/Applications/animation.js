@@ -14,7 +14,7 @@ export default function Showcase() {
       className="w-full min-h-screen flex flex-col items-center justify-start pt-16 bg-cover bg-center"
       style={{
         backgroundImage:
-          "url('https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671')",
+          "url('https://goetvalves.eu/image/premium-news-background-blue-checked.svg')",
       }}
     >
       {/* Title */}
