@@ -144,7 +144,7 @@ const MobileProductPage1 = () => {
             {/* First Hero Page */}
             <div 
                 className="w-full h-screen flex flex-col items-center justify-center text-white text-center relative"
-                style={{backgroundImage: `url(https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671)`, backgroundSize: 'cover', backgroundPosition: 'center'}}
+                style={{backgroundImage: `url(https://goetvalves.eu/image/premium-news-background-blue-checked.svg)`, backgroundSize: 'cover', backgroundPosition: 'center'}}
             >
                 <h1 className="text-5xl font-bold animate-fadeIn">PRODUCT </h1>
                 <p className="mt-4 text-lg animate-fadeIn delay-300">High quality, premium valve solution</p>
