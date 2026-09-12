@@ -119,7 +119,7 @@ export default function HomepageMobile() {
         {/* Section 0 - Hero */}
         <section ref={heroRef} className="h-screen w-full relative overflow-hidden">
           <img
-            src="https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671"
+            src="https://goetvalves.eu/image/premium-news-background-blue-checked.svg"
             alt="bg"
             className="w-full h-full object-cover"
           />
