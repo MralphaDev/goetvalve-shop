@@ -25,7 +25,7 @@ export default function FAQOnboarding() {
       className="h-screen w-screen flex items-center justify-center text-white relative overflow-hidden"
       style={{
         backgroundImage:
-          "url(https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg)",
+          "url(https://goetvalves.eu/image/premium-news-background-blue-checked.svg)",
         backgroundSize: "cover"
       }}
     >
