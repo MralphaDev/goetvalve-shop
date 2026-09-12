@@ -8,17 +8,17 @@ const russo = Russo_One({ subsets: ['latin'], weight: '400' });
 
 const cards = [
   {
-    img: 'http://www.goetvalve.eu/images/aba4.jpg',
+    img: 'http://www.goetvalves.eu/image/c6.jpg',
     label: 'FAQs - Coil & Current',
     text: 'Find answers about coil types, voltages, and current specifications.',
   },
   {
-    img: 'http://www.goetvalve.eu/uploadfiles/c4.jpg',
+    img: 'http://www.goetvalves.eu/image/c4.jpg',
     label: 'Service, Maintenance & Commissioning',
     text: 'We offer maintenance support, on-site commissioning, and inspection services.',
   },
   {
-    img: 'http://www.goetvalve.eu/uploadfiles/c5.jpg',
+    img: 'http://www.goetvalves.eu/image/c5.jpg',
     label: 'After-Sales Assistance',
     text: 'Get direct help with spare parts, repair guidance, and system tuning.',
   },
