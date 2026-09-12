@@ -65,7 +65,7 @@ export default function CompanyMobile() {
   }, []);
 
   const pageStyle =
-    "h-screen w-screen flex flex-col justify-center items-center px-6 sm:px-12 text-white relative bg-[url('https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671')] bg-cover bg-center";
+    "h-screen w-screen flex flex-col justify-center items-center px-6 sm:px-12 text-white relative bg-[url('https://goetvalves.eu/image/premium-news-background-blue-checked.svg')] bg-cover bg-center";
 
   const textVariantsLeft = {
     hidden: { opacity: 0, x: -40 },
