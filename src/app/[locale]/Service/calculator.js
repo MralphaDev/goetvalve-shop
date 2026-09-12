@@ -47,7 +47,7 @@ function Calculator() {
   }
   return (
     <div>
-                <div className="h-screen w-screen bg-[url('https://www.nieruf.de/media/fa/fc/75/1727169671/premium-news-background-blue-checked.svg?ts=1727169671')] bg-cover bg-center px-10 flex flex-col items-center justify-center">
+                <div className="h-screen w-screen bg-[url('https://goetvalves.eu/image/premium-news-background-blue-checked.svg')] bg-cover bg-center px-10 flex flex-col items-center justify-center">
               
               {/* Big white title */}
               <motion.h1 
